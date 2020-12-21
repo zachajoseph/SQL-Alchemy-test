@@ -11,7 +11,7 @@ https://docs.sqlalchemy.org/en/14/intro.html
 
 https://docs.sqlalchemy.org/en/14/tutorial/index.html
 
-SQLlite Tutorial:
+SQLite Tutorial:
 
 https://www.sqlitetutorial.net/download-install-sqlite/
 
