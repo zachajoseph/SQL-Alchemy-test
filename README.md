@@ -11,7 +11,7 @@ https://docs.sqlalchemy.org/en/14/intro.html
 
 https://docs.sqlalchemy.org/en/14/tutorial/index.html
 
-SQLlite Tutorial:
+SQLite Tutorial:
 
 https://www.sqlitetutorial.net/download-install-sqlite/
 
@@ -22,3 +22,5 @@ https://www.postman.com/downloads/
 **Riot Games/League API Tutorial**
 
 https://www.youtube.com/watch?v=ml0lKDU5JvY
+
+https://developer.riotgames.com/apis#match-v4/GET_getMatch
